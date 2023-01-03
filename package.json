@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/mani-ag-lwc.plainjs-lcg8leep-fork-lcg8t7rc",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve cJj4QO6XlzyXrnupXeOd --open"
+  }
+}
